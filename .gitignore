@@ -1,0 +1,12 @@
+*
+!*/
+!debug/*
+!pkg/*
+!.gitignore
+!.dockerignore
+!DEBUG.md
+!Dockerfile
+!go.mod
+!go.sum
+!main.go
+!Makefile
